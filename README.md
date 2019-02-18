@@ -1,6 +1,7 @@
 # Data-Science-Project
 ### Proposal for a Data Science Project
-1.	Data Set - National Survey on ICT Access and Usage by Households and Individuals 2017
+1.	Data Set - National Survey on ICT Access and Usage by Households and Individuals 2017  
+      Link -http://www.data.gov.lk/dataset/countrywide-assessment-ict-access-and-usage-households-and-individuals-current-status-trends
 
 2.	Team –   Perera K.A.H.P  
       D.A.D.N.P De Silva  
