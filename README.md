@@ -13,3 +13,20 @@
 4.	Research Question to be Evaluated
 
 Investigating the factors influencing the Sri Lankans ITC Access and Usage
+
+5. Possible question by looking dataset 
+
+ shanaka 
+ 1. Compare usage according to the education type/Employment type 
+ 2. Compare usage according to the income level 
+ 3. 
+ 
+ 
+ Heshan 
+ 
+ 
+ 
+ Navoda 
+ 
+ 
+ Nicum 
