@@ -16,17 +16,5 @@ Investigating the factors influencing the Sri Lankans ITC Access and Usage
 
 5. Possible question by looking dataset 
 
- shanaka 
- 1. Compare usage according to the education type/Employment type 
- 2. Compare usage according to the income level 
- 3. 
- 
- 
- Heshan 
- 
- 
- 
- Navoda 
- 
- 
- Nicum 
+Objective of this study is to identify the user groups according to the ICT literacy and usage. After identifying the user groups, we will be able to analyze the groups seperately using various kind of dimensions and that analysis we will be able to derive conclusions. Those conclusions may help to make decisions when plannig the ICT related activieis in future. 
+Clustering analysis based segmentation method will be used to identify the user groups. 
